@@ -1,7 +1,5 @@
 import {Container, Row, Col} from 'react-bootstrap';
 
-import Video from '../videos/pexels-mart-production-7565462.mp4'
-
 import Fade from 'react-reveal/Fade';
 import Roll from 'react-reveal/Roll';
 import Slide from 'react-reveal/Slide';
