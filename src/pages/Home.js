@@ -27,10 +27,7 @@ function Home(props) {
             RAFAEL HENRIQUES
           </h1>
 
-         
-
-
-          <hr className="custom_hr_red"></hr>
+            <hr className="custom_hr_red"></hr>
 
           <Slide bottom>
           <p className="text-center home-page-description ">

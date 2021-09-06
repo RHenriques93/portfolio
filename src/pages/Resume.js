@@ -296,11 +296,11 @@ function Resume() {
               </h3>
               <h3 className="item-list-tools">
                 <i className="fas fa-chevron-right icon-margin black"></i>HTML5,
-                CSS, Javascript, Bootstrap, Wordpress{" "}
+                CSS, Javascript, Bootstrap, Wordpress, React, MySQL{" "}
               </h3>
               <h3 className="item-list-tools">
                 <i className="fas fa-chevron-right icon-margin black"></i>Basic
-                Knowledge of (React.js, node.js, PHP, Java, C#)
+                Knowledge of (next.js, node.js, PHP, Java, C#, React Native, Firebase)
               </h3>
             </Slide>
           </Col>

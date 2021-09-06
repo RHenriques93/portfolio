@@ -96,7 +96,6 @@ transition: all 1s;
 
 
 .page-titles {
-  font-family: "Flood-Std";
   font-size: 40px;
   text-transform: uppercase;
   letter-spacing: 0.15em;
@@ -107,13 +106,11 @@ transition: all 1s;
 }
 
 .page-titles-projects {
-  font-family: "Flood-Std";
   font-size: 40px;
   text-transform: uppercase;
   letter-spacing: 0.15em;
   color: #D62839;
-  transform: rotate(-3deg);
-}
+ }
 
 
 .page-subtitles {
@@ -124,20 +121,16 @@ transition: all 1s;
 }
 
 .home-page-title {
-  font-family: "Flood-Std";
-  font-weight: 100;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
   font-size: 5vh;
-  letter-spacing: 5px;
+  letter-spacing: 12px;
   color: #f9f8f4;
   text-transform: uppercase;
-  padding-bottom: 20px;
   padding-top: 20px;
   padding-left: 50px;
   padding-right: 50px;
-  transform: rotate(-3deg);
- 
   margin: auto;
-
   animation-name: HomeTextAnimation;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -171,7 +164,6 @@ transition: all 1s;
   padding-top: 20px;
   padding-left: 50px;
   padding-right: 50px;
-
   margin: auto;
 }
 
@@ -556,7 +548,6 @@ a:active {
 
 
 .title{
-  font-family: "Flood-Std";
   font-size: 5vh;
   color: #f9f8f4;
   letter-spacing: 18px;
@@ -581,9 +572,6 @@ a:active {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 22px;
-  
-  
-
 }
 
 .resume_education_second {
