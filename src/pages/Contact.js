@@ -81,7 +81,7 @@ function Contact() {
 
             <Slide left>
               <a href="tel:+351918657084" className="contact-info-detail">
-                <i className="fas fa-phone icon-margin-contact"></i>918657084
+                <i className="fas fa-phone icon-margin-contact"></i>+ 351 918657084
               </a>
 
             </Slide>
@@ -100,7 +100,8 @@ function Contact() {
 
           <Col sm={12} md={6}>
             <Slide right>
-              <h1 className="sendme"><i class="fas fa-ellipsis-h icon-margin-contact ellipsis"></i> Send Me a Message</h1>
+              <h1 className="sendme_1">Do you want to work with me?</h1>
+              <h1 className="sendme"><i class="fas fa-ellipsis-h icon-margin-contact ellipsis"></i> Send me a message</h1>
             </Slide>
             <hr className="custom_hr_red mt-4 mb-4"></hr>
 

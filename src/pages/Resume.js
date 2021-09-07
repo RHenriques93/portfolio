@@ -50,8 +50,7 @@ function Resume() {
                 multimedia technician whose work areas focus on video editing,
                 photography, graphic design, 3D modeling and animation, motion
                 graphics, music production, sound design, front-end development
-                and UI / UX Design. Since 2018 he has been studying Multimedia
-                at Instituto Superior Miguel Torga in Coimbra. From 2016 to 2018
+                and UI / UX Design. In 2021 finished his bachelor´s degree in Multimedia at Instituto Superior Miguel Torga in Coimbra.  From 2016 to 2018
                 he was employed at Pedrógão Grande City Hall where he worked as
                 a designer, videographer, photographer and also as a digital
                 cinema projectionist.
@@ -89,7 +88,7 @@ function Resume() {
               </h2>
 
               <h3 className="resume_education_second">
-                INSTITUTO SUPERIOR MIGUEL TORGA | COIMBRA | 2018 - 2021
+                <a class="link" href="https://ismt.pt/pt" target="_blank">INSTITUTO SUPERIOR MIGUEL TORGA</a> | COIMBRA | 2018 - 2021
               </h3>
             </Slide>
 
@@ -106,7 +105,7 @@ function Resume() {
                 ADVERTISING
               </h3>
               <h4 className="resume_education_third">
-                INSTITUTO TÉCNICO ARTÍSTICO E PROFISSIONAL DE COIMBRA | 2012 -
+              <a class="link" href="https://www.itap.pt/" target="_blank">INSTITUTO TÉCNICO ARTÍSTICO E PROFISSIONAL DE COIMBRA </a>| 2012 -
                 2015
               </h4>
             </Slide>
@@ -124,12 +123,11 @@ function Resume() {
 
             <Slide left>
               <h2 className="resume_experience_main">
-                <i className="fas fa-chevron-right icon-margin red"></i>CASA
-                MUNICIPAL DA CULTURA - PEDRÓGÃO GRANDE CITY HALL
+                <i className="fas fa-chevron-right icon-margin red"></i><a class="link_2" href="https://www.cm-pedrogaogrande.pt/" target="_blank">CASA
+                MUNICIPAL DA CULTURA - PEDRÓGÃO GRANDE CITY HALL</a>
               </h2>
               <h3 className="resume_experience_second">
-                JUNE 2016 - OCTOBER 2018 ( PROFESSIONAL INTERNSHIP (9 MONTHS +
-                FULL TIME)
+                JUNE 2016 - OCTOBER 2018 ( PROFESSIONAL INTERNSHIP + FULL TIME)
               </h3>
               <h3 className="resume_experience_second">
                 GRAPHIC DESIGNER / VIDEO EDITOR / PHOTOGRAPHER
@@ -139,9 +137,10 @@ function Resume() {
 
             <Slide left>
               <h2 className="resume_experience_main">
-                <i className="fas fa-chevron-right icon-margin red"></i>MX
-                AGENCY / RIJO MADEIRA PRODUÇÕES - COIMBRA
+                <i className="fas fa-chevron-right icon-margin red"></i><a class="link_2" href="https://www.facebook.com/mxagencypt" target="_blank">MX
+                AGENCY </a> / <a class="link_2" href="https://www.rijomadeira.com/" target="_blank">RIJO MADEIRA PRODUÇÕES</a> - COIMBRA
               </h2>
+              
               <h3 className="resume_experience_second">
                 JUNE 2015 - JULY 2015 (CURRICULAR INTERNSHIP)
               </h3>

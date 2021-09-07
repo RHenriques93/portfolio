@@ -31,7 +31,7 @@ function Home(props) {
 
           <Slide bottom>
           <p className="text-center home-page-description ">
-            Check my resume and portfolio or send me a message.
+            Welcome, check my resume and portfolio or send me a message.
           </p>
  </Slide>
  
