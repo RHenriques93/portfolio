@@ -14,7 +14,7 @@ function Footer() {
    
  
  
-          <a href="https://www.behance.net/rafael_hen06b4" target="_blank">
+          <a href="https://www.behance.net/rafael_henriques" target="_blank">
         <i className="fab fa-behance fa-1x socialsize"></i>
       </a>
  
