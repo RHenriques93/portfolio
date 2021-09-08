@@ -77,14 +77,20 @@ function Contact() {
             <Slide top>
               <h1 className="contact-info-title mb-5">Contact Information</h1>
             </Slide>
-            <hr className="custom_hr_red mt-4 mb-4"></hr>
+         
 
-            <Slide left>
+              {
+            
+         /*
+         <hr className="custom_hr_red mt-4 mb-4"></hr>
+          <Slide left>
               <a href="tel:+351918657084" className="contact-info-detail">
                 <i className="fas fa-phone icon-margin-contact"></i>+ 351 918657084
               </a>
-
             </Slide>
+              */
+              }
+              
             <hr className="custom_hr_red mt-4 mb-4"></hr>
 
             <Slide right>

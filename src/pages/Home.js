@@ -34,7 +34,7 @@ function Home(props) {
             Welcome, check my resume and portfolio or send me a message.
           </p>
  </Slide>
- 
+
 
         </Col>
       </Row>
