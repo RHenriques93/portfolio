@@ -26,7 +26,7 @@ function Footer() {
         <i className="fas fa-code fa-1x socialsize"></i>
       </a>
 
-      <a href="https://www.linkedin.com/in/rafael-henriques-27579a211/" target="_blank">
+      <a href="https://www.linkedin.com/in/rafael-henriques-multimedia/" target="_blank">
         <i className="fab fa-linkedin fa-1x socialsize"></i>
       </a>
 
