@@ -84,7 +84,7 @@ function Resume() {
             <Slide left>
               <h2 className="resume_education_main ">
                 <i className="fas fa-chevron-right icon-margin black"></i>
-                BACHELOR´S DEGREE IN MULTIMEDIA
+                BACHELOR´S DEGREE IN MULTIMEDIA - LVL 6 EQF
               </h2>
 
               <h3 className="resume_education_second">
@@ -98,7 +98,7 @@ function Resume() {
             <Slide left>
               <h2 className="resume_education_main">
                 <i className="fas fa-chevron-right icon-margin black"></i>
-                PROFESSIONAL COURSE - HIGH SCHOOL
+                PROFESSIONAL COURSE - LVL 4 EQF
               </h2>
               <h3 className="resume_education_second">
                 TECHNICIAN OF COMUNICATION, MKT, PUBLIC RELATIONS AND
