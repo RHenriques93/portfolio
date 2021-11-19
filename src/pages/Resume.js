@@ -124,10 +124,10 @@ function Resume() {
             <Slide left>
               <h2 className="resume_experience_main">
                 <i className="fas fa-chevron-right icon-margin red"></i><a class="link_2" href="https://www.cm-pedrogaogrande.pt/" target="_blank">CASA
-                MUNICIPAL DA CULTURA - PEDRÓGÃO GRANDE CITY HALL</a>
+                MUNICIPAL DA CULTURA - MUNICIPALITY OF PEDRÓGÃO GRANDE</a>
               </h2>
               <h3 className="resume_experience_second">
-                JUNE 2016 - OCTOBER 2018 ( PROFESSIONAL INTERNSHIP + FULL TIME)
+                JUNE 2016 - OCTOBER 2018 (PROFESSIONAL INTERNSHIP + FULL TIME)
               </h3>
               <h3 className="resume_experience_second">
                 GRAPHIC DESIGNER / VIDEO EDITOR / PHOTOGRAPHER
