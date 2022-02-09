@@ -46,14 +46,8 @@ function Resume() {
 
             <Slide right>
               <p className="resume_bio">
-                Rafael Henriques was born in Coimbra in 1993 and he is a
-                multimedia technician whose work areas focus on video editing,
-                photography, graphic design, 3D modeling and animation, motion
-                graphics, music production, sound design, front-end development
-                and UI / UX Design. In 2021 finished his bachelor´s degree in Multimedia at Instituto Superior Miguel Torga in Coimbra.  From 2016 to 2018
-                he was employed at Pedrógão Grande City Hall where he worked as
-                a designer, videographer, photographer and also as a digital
-                cinema projectionist.
+              Rafael Henriques is a multimedia technician whose work areas focus on graphic design, UI/UX design,  
+              motion graphics, video and photography capture and editing, 3D modeling and animation, music production, sound design, front-end web development .
               </p>
             </Slide>
             
@@ -129,7 +123,7 @@ function Resume() {
                 DECEMBER 2021 - JANUARY 2022 (2 MONTHS - FREELANCER)
               </h3>
               <h3 className="resume_experience_second">
-                UI / UX DESIGN / DIGITAL ADS / MOTION DESIGN / BRAND IDENTITY - INTERNATIONAL CLIENTS
+                UI / UX DESIGN / DIGITAL ADS / MOTION DESIGN / BRAND IDENTITY (INTERNATIONAL CLIENTS)
               </h3>
             </Slide>
             <hr className="custom_hr_red mt-5 mb-5"></hr>
@@ -244,17 +238,20 @@ function Resume() {
             <hr className="custom_hr_red"></hr>
 
             <Slide left>
-              <h3 className="item-list-skills">
-                <i className="fas fa-chevron-right icon-margin red"></i>
-                Video and Photography | Capture and Editing
-              </h3>
-              <h3 className="item-list-skills">
+               <h3 className="item-list-skills">
                 <i className="fas fa-chevron-right icon-margin red"></i>Graphic
                 Design / UI / UX Design
               </h3>
               <h3 className="item-list-skills">
+                <i className="fas fa-chevron-right icon-margin red"></i>Digital Ads / Social Media Design
+              </h3>
+              <h3 className="item-list-skills">
                 <i className="fas fa-chevron-right icon-margin red"></i>Motion
                 Graphics
+              </h3>
+              <h3 className="item-list-skills">
+                <i className="fas fa-chevron-right icon-margin red"></i>
+                Video and Photography | Capture and Editing
               </h3>
               <h3 className="item-list-skills">
                 <i className="fas fa-chevron-right icon-margin red"></i>3D
@@ -286,6 +283,10 @@ function Resume() {
                 <i className="fas fa-chevron-right icon-margin black"></i>Adobe
                 (Illustrator, Photoshop, Premiere, After Effects, InDesign,
                 Animate, Audition, Lightroom)
+              </h3>
+              <h3 className="item-list-tools">
+                <i className="fas fa-chevron-right icon-margin black"></i>
+                Figma
               </h3>
               <h3 className="item-list-tools">
                 <i className="fas fa-chevron-right icon-margin black"></i>
