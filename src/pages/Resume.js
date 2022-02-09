@@ -4,7 +4,7 @@ import Personality from "../images/personality.svg";
 
 import FotoResume from "../images/foto_rafael_henriques.jpg";
 
-import CV_Resume from "../docs/CV_RafaelHenriques_EN_2021.pdf";
+import CV_Resume from "../docs/EN-CV_RafaelHenriques_2022.pdf";
 
 import Slide from "react-reveal/Slide";
 
@@ -120,6 +120,19 @@ function Resume() {
               <h1 className="experience_title">Experience</h1>
             </Slide>
             <hr className="custom_hr_red mb-5"></hr>
+
+            <Slide left>
+              <h2 className="resume_experience_main">
+                <i className="fas fa-chevron-right icon-margin red"></i><a class="link_2" href="https://www.wee-doo.com/" target="_blank">Weedoo Consulting</a>
+              </h2>
+              <h3 className="resume_experience_second">
+                DECEMBER 2021 - JANUARY 2022 (2 MONTHS - FREELANCER)
+              </h3>
+              <h3 className="resume_experience_second">
+                UI / UX DESIGN / DIGITAL ADS / MOTION DESIGN / BRAND IDENTITY - INTERNATIONAL CLIENTS
+              </h3>
+            </Slide>
+            <hr className="custom_hr_red mt-5 mb-5"></hr>
 
             <Slide left>
               <h2 className="resume_experience_main">
@@ -328,7 +341,7 @@ function Resume() {
 
             <div className="english_skills">
               <Slide left>
-                <div className="skills understanding">Understanding | 80%</div>
+                <div className="skills understanding">Listening | 80%</div>
               </Slide>
             </div>
 
