@@ -54,7 +54,7 @@ function Resume() {
             <hr className="custom_hr_red"></hr>
             <Slide right>
               <h2 className="resume_birthandlocation">
-                1993 | Coimbra | Portugal
+                1993 | Pedrógão Grande | Portugal
               </h2>
             </Slide>
             
@@ -84,6 +84,11 @@ function Resume() {
               <h3 className="resume_education_second">
                 <a class="link" href="https://ismt.pt/pt" target="_blank">INSTITUTO SUPERIOR MIGUEL TORGA</a> | COIMBRA | 2018 - 2021
               </h3>
+              <h3 className="resume_education_second">
+                DGES - MERIT SCHOLARSHIP
+              </h3>
+
+              
             </Slide>
 
 
@@ -114,6 +119,19 @@ function Resume() {
               <h1 className="experience_title">Experience</h1>
             </Slide>
             <hr className="custom_hr_red mb-5"></hr>
+
+            <Slide left>
+              <h2 className="resume_experience_main">
+                <i className="fas fa-chevron-right icon-margin red"></i><a class="link_2" href="https://www.guerilla.pt/" target="_blank">Guerilla Design Agency</a>
+              </h2>
+              <h3 className="resume_experience_second">
+                JULY 2022 - PRESENT (PROFESSIONAL INTERNSHIP)
+              </h3>
+              <h3 className="resume_experience_second">
+               GRAPHIC DESIGN / MOTION DESIGN / SOCIAL MEDIA DESIGN / VIDEO AND PHOTOGRAPHY / WEB DEVELOPMENT - WORDPRESS
+              </h3>
+            </Slide>
+            <hr className="custom_hr_red mt-5 mb-5"></hr>
 
             <Slide left>
               <h2 className="resume_experience_main">
