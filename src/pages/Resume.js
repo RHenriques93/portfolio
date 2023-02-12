@@ -4,7 +4,7 @@ import Personality from "../images/personality.svg";
 
 import FotoResume from "../images/foto_rafael_henriques.jpg";
 
-import CV_Resume from "../docs/EN-CV_RafaelHenriques_2022.pdf";
+import CV_Resume from "../docs/EN-CV_RafaelHenriques_2023.pdf";
 
 import Slide from "react-reveal/Slide";
 
