@@ -4,7 +4,7 @@ import Personality from "../images/personality.svg";
 
 import FotoResume from "../images/foto_rafael_henriques.jpg";
 
-import CV_Resume from "../docs/EN-CV_RafaelHenriques_2023.pdf";
+import CV_Resume from "../docs/CV_RafaelHenriques_EN.pdf";
 
 import Slide from "react-reveal/Slide";
 
@@ -125,7 +125,7 @@ function Resume() {
                 <i className="fas fa-chevron-right icon-margin red"></i><a class="link_2" href="https://www.guerilla.pt/" target="_blank">Guerilla Design Agency</a>
               </h2>
               <h3 className="resume_experience_second">
-                JULY 2022 - PRESENT (PROFESSIONAL INTERNSHIP)
+                JULY 2022 - PRESENT (PROFESSIONAL INTERNSHIP + FULL TIME)
               </h3>
               <h3 className="resume_experience_second">
                GRAPHIC DESIGN / MOTION DESIGN / SOCIAL MEDIA DESIGN / VIDEO AND PHOTOGRAPHY / WEB DEVELOPMENT - WORDPRESS
