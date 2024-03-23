@@ -53,9 +53,13 @@ function Header() {
                   Resume
                 </NavLink>
 
-                <NavLink to="/projects" className="item" activeClassName="active">
+                {/*<NavLink to="/projects" className="item" activeClassName="active">
                   Portfolio
-                </NavLink>
+                </NavLink>*/}
+
+                   <a href="https://www.behance.net/rafael_henriques" target="_blank" className="item" activeClassName="active">
+                  Portfolio
+                </a>
 
                 <NavLink  to="/contact" className="item" activeClassName="active">
                   Contact
@@ -70,7 +74,7 @@ function Header() {
         <ScrollIntoView>
           <Route exact path="/" component={Home} />
           <Route path="/resume" component={Resume} />
-          <Route path="/projects" component={Projects} />
+          {/*<Route path="/projects" component={Projects} />*/}
           <Route path="/contact" component={Contact} />
           <Route path="/project/:project_id" component={ProjectPage} />
           <Route path="/login" component={Login} />

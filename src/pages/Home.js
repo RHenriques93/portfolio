@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Col, Row } from "react-bootstrap";
 import Video from '../videos/square_anim.mp4'
-
+import { Link } from 'react-router-dom';
 import Slide from "react-reveal/Slide";
 
 function Home(props) {
@@ -35,6 +35,17 @@ function Home(props) {
           </p>
  </Slide>
 
+
+    <div className="center-div-buttons">
+            <Link to="/resume" className="home-button">
+                            RESUME
+            </Link>
+
+            <a className="home-button" href="https://www.behance.net/rafael_henriques" target="_blank" rel="noopener noreferrer">
+                PORTFOLIO
+                </a>
+          
+  </div>
 
         </Col>
       </Row>
