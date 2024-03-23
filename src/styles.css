@@ -5,6 +5,13 @@ body,
 }
 
 
+@media only screen and (max-width: 600px) {
+  .fas.fa-chevron-right.icon-margin {
+    display: none;
+  }
+}
+
+
 .center-div-buttons {
   margin: auto !important;
   justify-content: center;
