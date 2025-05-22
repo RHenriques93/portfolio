@@ -125,7 +125,7 @@ function Resume() {
                 <i className="fas fa-chevron-right icon-margin red"></i><a class="link_2" href="https://www.guerilla.pt/" target="_blank">Guerilla Design Agency</a>
               </h2>
               <h3 className="resume_experience_second">
-                JULY 2022 - PRESENT (PROFESSIONAL INTERNSHIP + FULL TIME)
+                JULY 2022 - JULY 2025 (PROFESSIONAL INTERNSHIP + FULL TIME)
               </h3>
               <h3 className="resume_experience_second">
                GRAPHIC DESIGN / MOTION DESIGN / SOCIAL MEDIA DESIGN / VIDEO AND PHOTOGRAPHY / WEB DEVELOPMENT - WORDPRESS
